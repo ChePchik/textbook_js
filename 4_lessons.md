@@ -389,4 +389,4 @@ console.log(num); // выведет 3
 
 [Двумерные](https://code.mu/ru/javascript/book/prime/multi/arrays/) и [трёхмерные](https://code.mu/ru/javascript/book/prime/multi/arrays-three-dimensional/). А так же их [перебор](https://code.mu/ru/javascript/book/prime/multi/arrays-iteration/)
 
-## Переходим к файлу 4_lessons.md
+## Переходим к файлу task.md
